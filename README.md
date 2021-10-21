@@ -16,3 +16,7 @@
   * together with bootstrap buttons
   * component includes $emit function
   * slightly more complicated that previous ones
+
+## License
+
+[MIT License](https://oss.ninja/mit/0x66you) © Yeh,Chun-Chen
